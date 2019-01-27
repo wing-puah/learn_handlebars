@@ -1,6 +1,6 @@
 $(document).ready( function(){
   let content = document.getElementById('quotes'),
-      ajaxUrl = "http://quotesondesign.com/wp-json/posts?filter[orderby]=rand&filter[posts_per_page]=4",
+      ajaxUrl = "https://quotesondesign.com/wp-json/posts?filter[orderby]=rand&filter[posts_per_page]=4",
       quotesData = {quotes: []}
 
   // Running ajax
