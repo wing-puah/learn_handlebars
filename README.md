@@ -1,1 +1,2 @@
-# learn_handlebars
+# Learn handlebars
+A simple handlebar template to show how it works. 
